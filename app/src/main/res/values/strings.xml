@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dado</string>
+    <string name="TextviewTexto">Aperte o Botão para Girar</string>
+    <string name="btn_roleta">Girar</string>
+</resources>
